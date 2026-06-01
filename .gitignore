@@ -22,4 +22,8 @@ yarn-error.log
 /.vscode
 /.zed
 .DS_Store
+<<<<<<< HEAD
 *.DS_Store
+=======
+*/.DS_Store
+>>>>>>> 01d8811 (feat: add contact page and form functionality and install Laravel Boost)

@@ -36,7 +36,9 @@
                     <a href="{{ route('shop') }}" class="footer__link">Sklep</a>
                 </li>
                 <li class="footer__item">
-                    <a href="#" class="footer__link">Kontakt</a>
+                    <a href="{{ route('contact') }}" class="footer__link"
+                        >Kontakt</a
+                    >
                 </li>
             </ul>
         </div>
@@ -65,9 +67,9 @@
             Projekt i realizacja:
             <a
                 class="footer__link footer__link--white"
-                href="https://lipinskijakub.pl/pl"
+                href="https://webcrafts.pl/"
                 target="_blank"
-                >Jakub Lipiński</a
+                >Webcrafts.pl</a
             >
         </p>
     </div>

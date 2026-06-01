@@ -206,7 +206,7 @@
                 >
             </h2>
             <p class="about__description">
-                K2system to bezpośredni importer urządzeń Konica Minolta,
+                K2system to dystrybutor urządzeń Konica Minolta,
                 specjalizujący się w sprzedaży, dzierżawie oraz serwisie
                 kserokopiarek i drukarek dla firm. Działamy lokalnie i
                 międzynarodowo, dostarczając urządzenia o japońskiej
