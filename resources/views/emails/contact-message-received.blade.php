@@ -11,7 +11,7 @@
         <p><strong>E-mail:</strong> {{ $contactData['email'] }}</p>
 
         @if (! empty($contactData['phone']))
-            <p><strong>Telefon:</strong> {{ $contactData['phone'] }}</p>
+            <p><strong>Numer telefonu:</strong> {{ $contactData['phone'] }}</p>
         @endif
 
         <p><strong>Treść wiadomości:</strong></p>
