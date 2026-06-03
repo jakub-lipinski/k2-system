@@ -24,7 +24,7 @@ jobs:
           username: ${{ secrets.SSH_USER }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
-            cd /home/user/web/cnc.lipinskijakub.pl/public_html
+            cd /home/k2system/web/ksero-k2system.pl/public_html
 
             # Turn on maintenance mode
             php artisan down
