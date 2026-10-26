@@ -67,9 +67,10 @@
             Projekt i realizacja:
             <a
                 class="footer__link footer__link--white"
-                href="https://webcrafts.pl/"
+                href="https://digitalowa.pl/"
                 target="_blank"
-                >Webcrafts.pl</a
+                rel="noopener noreferrer"
+                >Agencja Digitalowa.pl</a
             >
         </p>
     </div>
